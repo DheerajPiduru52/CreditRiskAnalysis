@@ -38,7 +38,7 @@ To build a machine learning model that accurately predicts credit default risk a
 - Missing Value Imputation: Replaced with zero
 - Outlier Treatment: Capped values using 1st and 99th percentiles
 - Normalization: Applied StandardScaler from sklearn
-![Feature Engineering](assets/featureengineering.png)
+![Feature Engineering](assets/feature%20engineering.jpg)
 
 ---
 
@@ -51,6 +51,9 @@ To build a machine learning model that accurately predicts credit default risk a
   - AUC (Train/Test1/Test2): 0.9417 / 0.9394 / 0.9406  
   - Average AUC: 0.9406  
   - Overfit metric: 0.0601
+![XGB1](assets/xgb1.jpg)
+![XGB2](assets/xgb2.jpg)
+
 
 ### 2. Neural Network
 - Architecture: 2 hidden layers, 6 nodes each
