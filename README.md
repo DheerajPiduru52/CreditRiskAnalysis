@@ -71,7 +71,7 @@ To build a machine learning model that accurately predicts credit default risk a
 
 Final Model: **XGBoost**  
 Chosen for its higher AUC, lower variance, and superior interpretability.
-
+![FinalModel](assets/finalmodel.jpg)
 ---
 
 ## Model Interpretability
@@ -81,6 +81,8 @@ Chosen for its higher AUC, lower variance, and superior interpretability.
 - Key findings:
   - P_2 (Payment variable): Higher values reduce default risk (negative correlation)
   - S_3 (Spend variable): Higher values increase default risk (positive correlation)
+![Beeswarm](assets/beeswarm.jpg)
+![Waterfall](assets/waterfall.jpg)
 
 ---
 
@@ -96,6 +98,7 @@ Simulated different approval thresholds from 0.1 to 1.0. Compared:
 | Conservative (0.3)   | 819.65              | 4.26%         |
 | Aggressive (0.54)    | 890.63              | 8.99%         |
 
+![Strategy](assets/Strategy.jpg)
 ---
 
 ## Key Takeaways
@@ -105,6 +108,4 @@ Simulated different approval thresholds from 0.1 to 1.0. Compared:
 - Strategy trade-offs (conservative vs. aggressive) allow for custom risk-return alignment
 
 ---
-
-## Folder Structure
 
