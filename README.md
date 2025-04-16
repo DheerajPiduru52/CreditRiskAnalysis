@@ -87,6 +87,7 @@ Chosen for its higher AUC, lower variance, and superior interpretability.
 ---
 
 ## Strategy Design
+![Strategy2](assets/es.jpg)
 
 Simulated different approval thresholds from 0.1 to 1.0. Compared:
 - Total Approved Customers
