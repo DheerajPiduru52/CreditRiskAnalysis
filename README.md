@@ -5,11 +5,6 @@ author: ["Dheeraj Rahul Reddy Piduru", "Sachin Jain", "Kota Manasseh Jesrun"]
 tags: ["credit risk", "xgboost", "neural networks", "machine learning", "feature engineering", "shap", "AUC"]
 date: 2025-04-16
 repository: "github.com/DheerajPiduru52/CreditRiskAnalysis"
-
-Tech Stack:
-- Python, Pandas, NumPy
-- XGBoost, Keras (TensorFlow backend)
-- SHAP, Scikit-learn, Matplotlib
 ---
 
 # Credit Risk Analysis using Machine Learning
