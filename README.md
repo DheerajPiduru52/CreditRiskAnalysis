@@ -1,13 +1,10 @@
----
-title: "Credit Risk Analysis using Machine Learning"
-description: "Predicting customer default risk using XGBoost and Neural Networks for Kaggle-AMEX dataset. Feature engineering, grid search, SHAP analysis, and credit strategy simulation included."
-author: ["Dheeraj Rahul Reddy Piduru", "Sachin Jain", "Kota Manasseh Jesrun"]
-tags: ["credit risk", "xgboost", "neural networks", "machine learning", "feature engineering", "shap", "AUC"]
-date: 2025-04-16
-repository: "github.com/DheerajPiduru52/CreditRiskAnalysis"
----
-
 # Credit Risk Analysis using Machine Learning
+
+**Team Members**: Dheeraj Rahul Reddy Piduru · Sachin Jain · Kota Manasseh Jesrun  
+**Tech Stack**: XGBoost · Neural Networks · SHAP · Python · Scikit-learn · Keras · Pandas  
+**Dataset**: [Kaggle - Amex Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
+
+---
 
 ## Project Objective
 To build a machine learning model that accurately predicts credit default risk and supports strategic credit approval by balancing profit maximization and risk control.
