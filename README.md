@@ -18,6 +18,7 @@ To build a machine learning model that accurately predicts credit default risk a
 - Why this period?
   - Captures full financial year seasonality
   - Ensures pre-pandemic economic stability
+![Data Summary](assets/datasummary.png)
 
 ---
 
