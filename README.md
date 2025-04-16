@@ -52,7 +52,7 @@ To build a machine learning model that accurately predicts credit default risk a
   - Average AUC: 0.9406  
   - Overfit metric: 0.0601
 ![XGB1](assets/xgb1.jpg)
-![XGB2](assets/xgb2.jpg)
+![XGB2](assets/xgb-2.jpg)
 
 
 ### 2. Neural Network
@@ -63,7 +63,8 @@ To build a machine learning model that accurately predicts credit default risk a
   - AUC (Train/Test1/Test2): 0.9324 / 0.9328 / 0.9338  
   - Average AUC: 0.9331  
   - Overfit metric: 44.80
-
+![NN1](assets/nn-1.jpg)
+![NN2](assets/nn-2.jpg)
 ---
 
 ## Model Selection
