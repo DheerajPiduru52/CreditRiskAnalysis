@@ -94,11 +94,6 @@ Simulated different approval thresholds from 0.1 to 1.0. Compared:
 - Default Rate
 - Revenue Generated
 
-| Strategy             | Revenue (Test Avg) | Default Rate |
-|----------------------|--------------------|---------------|
-| Conservative (0.3)   | 819.65              | 4.26%         |
-| Aggressive (0.54)    | 890.63              | 8.99%         |
-
 ![Strategy](assets/Strategy.jpg)
 ---
 
