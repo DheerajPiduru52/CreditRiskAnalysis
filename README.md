@@ -38,6 +38,7 @@ To build a machine learning model that accurately predicts credit default risk a
 - Missing Value Imputation: Replaced with zero
 - Outlier Treatment: Capped values using 1st and 99th percentiles
 - Normalization: Applied StandardScaler from sklearn
+![Feature Engineering](assets/featureengineering.png)
 
 ---
 
