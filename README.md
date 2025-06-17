@@ -1,6 +1,5 @@
 # Credit Risk Analysis using Machine Learning
 
-**Team Members**: Dheeraj Rahul Reddy Piduru · Sachin Jain · Kota Manasseh Jesrun  
 **Tech Stack**: XGBoost · Neural Networks · SHAP · Python · Scikit-learn · Keras · Pandas  
 **Dataset**: [Kaggle - Amex Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction)
 
